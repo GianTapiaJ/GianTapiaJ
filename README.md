@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello World!👋
 
+## My name is Gian Tapia 🌱
+
+I'm a Computer Engineering student, I love plants and programing 💻
 <!--
-**GianTapiaJ/GianTapiaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills & Technologies
 
-Here are some ideas to get you started:
+- Programming Languages:
+- Web Development:
+- Databases:
+- Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📫 How to Reach Me
+
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@YourGitHubUsername](https://github.com/YourGitHubUsername)
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+
+---
+
+⭐ *From [Gian Tapia](https://github.com/YourGitHubUsername)*
 -->

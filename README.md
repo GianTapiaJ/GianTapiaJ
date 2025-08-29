@@ -1,6 +1,6 @@
-# Hello World!👋
+## Hello World!👋
 
-## My name is Gian Tapia 🌱
+# My name is Gian Tapia 🌱
 
 I'm a Computer Engineering student, I love plants and programing 💻
 <!--
